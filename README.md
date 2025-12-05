@@ -1,11 +1,7 @@
-# 🏠 House Price Predictor – An MLOps Learning Project
-
-Welcome to the **House Price Predictor** project! This is a real-world, end-to-end MLOps use case designed to help you master the art of building and operationalizing machine learning pipelines.
+# House Price Predictor – MLOps showcase
 
 You'll start from raw data and move through data preprocessing, feature engineering, experimentation, model tracking with MLflow, and optionally using Jupyter for exploration – all while applying industry-grade tooling.
 
-> 🚀 **Want to master MLOps from scratch?**  
-Check out the [MLOps Bootcamp at School of DevOps](https://schoolofdevops.com) to level up your skills.
 
 ---
 
@@ -164,24 +160,11 @@ curl -X POST "http://localhost:8000/predict" \
 Be sure to replace `http://localhost:8000/predict` with actual endpoint based on where its running. 
 
 
-## 🧠 Learn More About MLOps
-
-This project is part of the [**MLOps Bootcamp**](https://schoolofdevops.com) at School of DevOps, where you'll learn how to:
 
 - Build and track ML pipelines
 - Containerize and deploy models
 - Automate training workflows using GitHub Actions or Argo Workflows
 - Apply DevOps principles to Machine Learning systems
 
-🔗 [Get Started with MLOps →](https://schoolofdevops.com)
-
 ---
 
-## 🤝 Contributing
-
-We welcome contributions, issues, and suggestions to make this project even better. Feel free to fork, explore, and raise PRs!
-
----
-
-Happy Learning!  
-— Team **School of DevOps**
