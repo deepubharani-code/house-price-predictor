@@ -26,15 +26,6 @@ house-price-predictor/
 ---
 
 ## 🛠️ Setting up Learning/Development Environment
-
-To begin, ensure the following tools are installed on your system:
-
-- [Python 3.11](https://www.python.org/downloads/)
-- [Git](https://git-scm.com/)
-- [Visual Studio Code](https://code.visualstudio.com/) or your preferred editor
-- [UV – Python package and environment manager](https://github.com/astral-sh/uv)
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/) **or** [Podman Desktop](https://podman-desktop.io/)
-
 ---
 
 ## 🚀 Preparing Your Environment
@@ -152,7 +143,7 @@ curl -X POST "http://localhost:8000/predict" \
   "bathrooms": 2,
   "location": "suburban",
   "year_built": 2000,
-  "condition": fair
+  "condition": "fair"
 }'
 
 ```
